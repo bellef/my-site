@@ -18,3 +18,7 @@ Run the server localy with
 ```
 bundle exec jekyll serve --livereload --baseurl=""
 ```
+Then visit `http://localhost:4000/`.
+
+## Deploy
+Deploy by pushing on branch `main`, Github Pages will handle the rest.
